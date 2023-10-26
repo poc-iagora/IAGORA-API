@@ -1,0 +1,4 @@
+- json array
+- lecture json
+- afaka manao filtre selon champs anaty objet (like, >, <, <>, =)
+- return json array 

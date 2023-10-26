@@ -13,9 +13,9 @@ cx_Oracle.init_oracle_client(lib_dir=lib_dir)
 
 hostname='localhost'
 port='1521'
-service_name='ORCLCDB'
-username='c##iagora'
-password='iagora'
+service_name='XE'
+username='system'
+password='iagora2023'
 
 cx_Oracle.init_oracle_client(lib_dir=lib_dir)
 oracle_connection_string_fmt = (

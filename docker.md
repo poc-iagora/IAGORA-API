@@ -1,0 +1,1 @@
+docker container create -it --name oracle-iagora -p 1521:1521 -e ORACLE_PWD=iagora2023 container-registry.oracle.com/database/express:21.3.0-xe
